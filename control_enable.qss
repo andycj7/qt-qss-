@@ -1,0 +1,81 @@
+QWidget#widget_right
+{
+  border:3px solid white;
+  min-width:40px;
+  max-width:40px;
+  border-radius:23px;
+}
+QWidget#widget_bottom
+{
+border:3px solid white;
+border-radius:23px;
+min-width:40px;
+max-width:40px;
+min-height:40px;
+max-height:40px;
+background-color: transparent;
+}
+QWidget#widget_top
+{
+border:3px solid white;
+border-radius:23px;
+min-width:40px;
+max-width:40px;
+min-height:40px;
+max-height:40px;
+background-color: transparent;
+}
+
+QWidget#Form
+{
+background-color:black;
+}
+QPushButton
+{
+min-height:40px;
+min-width:40px;
+max-height:40px;
+max-width:40px;
+border-radius:20px;
+border:0px solid white;
+background-color: rgb(0, 85, 255);
+font:italic bold 20px arial;
+color:white;
+}
+QPushButton:pressed
+{
+background-color: rgb(85, 255, 255);
+}
+QLabel#label_top
+{
+background-color:transparent;
+color:white;
+}
+QLabel#label_bottom
+{
+background-color:transparent;
+color:white;
+}
+QLabel#label_center_1
+{
+background-image: url(:/arrow-enable1.png);
+min-height:20px;
+min-width:20px;
+max-height:20px;
+max-width:20px;
+}
+QLabel#label_center_2
+{
+background-image: url(:/arrow-enable1.png);
+min-height:20px;
+min-width:20px;
+max-height:20px;
+max-width:20px;
+}
+QLabel#label_flag
+{
+background-color:white;
+min-height:3px;
+max-height:3px;
+
+}

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>control_disable.qss</file>
+        <file>control_enable.qss</file>
+        <file>arrow-disable.png</file>
+        <file>arrow-enable1.png</file>
+        <file>arrow-enable2.png</file>
+    </qresource>
+</RCC>
