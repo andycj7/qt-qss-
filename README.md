@@ -8,3 +8,5 @@
 
 
 <img src="https://github.com/andycj7/qt-qss-diycontrol/blob/master/brief%20introduction/%E6%8E%A7%E4%BB%B6%E5%9B%BE%E7%89%87.png">
+
+2020/7/13
